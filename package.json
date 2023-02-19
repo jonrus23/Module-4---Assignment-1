@@ -1,0 +1,27 @@
+{
+  "name": "lab2mssql",
+  "version": "1.0.0",
+  "description": "Node.js CRUD example with SQL Server (MSSQL)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "crud",
+    "sql",
+    "server",
+    "mssql",
+    "express"
+  ],
+  "author": "jrussial@asu.edu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mssql": "^9.1.1"
+  }
+}
